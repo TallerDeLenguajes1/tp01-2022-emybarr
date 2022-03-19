@@ -19,7 +19,7 @@ Para crear un archivo .gitignore local, crear un archivo de texto y asignarle el
 3 c- Los ardhivos .exe y del compilador no son necesarios
 
 3 Los resultados b y c son iguales ya que el puntero es una variable que contiene la direccion de memoria de otra variable 
-El sixeof() me da el tamaño de la variable en bytes
+El sizeof() me da el tamaño de la variable en bytes
 
 
 # tp01-2022-emybarr
